@@ -1,0 +1,13 @@
+D:\C#feeder\Calc\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\C#feeder\Calc\Calculator\obj\Debug\Calculator.Main_page.resources
+D:\C#feeder\Calc\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\C#feeder\Calc\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\C#feeder\Calc\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\C#feeder\Calc\Calculator\bin\Debug\Calculator.exe.config
+D:\C#feeder\Calc\Calculator\bin\Debug\Calculator.exe
+D:\C#feeder\Calc\Calculator\bin\Debug\Calculator.pdb
+D:\C#feeder\Calc\Calculator\obj\Debug\Calculator.exe
+D:\C#feeder\Calc\Calculator\obj\Debug\Calculator.pdb
+D:\C#feeder\Calc\Calculator\obj\Debug\Calculator.Array_calc.resources
+D:\C#feeder\Calc\Calculator\obj\Debug\Calculator.Arr_History.resources
+D:\C#feeder\Calc\Calculator\obj\Debug\Calculator.History.resources
